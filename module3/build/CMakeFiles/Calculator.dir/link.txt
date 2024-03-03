@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Calculator.dir/main.cpp.o -o Calculator  maths/libmathlibrary.a print/liboutputresult.a 

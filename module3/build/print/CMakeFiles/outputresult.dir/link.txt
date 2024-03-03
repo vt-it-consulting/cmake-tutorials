@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboutputresult.a CMakeFiles/outputresult.dir/src/print_result.cpp.o
+/usr/bin/ranlib liboutputresult.a

@@ -1,0 +1,6 @@
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/mathlibrary.dir
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/outputresult.dir
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/Calculator.exe.dir
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/App.dir
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/edit_cache.dir
+/home/tenevincent/Cmake-Tutorial/module2/build-dir/CMakeFiles/rebuild_cache.dir
